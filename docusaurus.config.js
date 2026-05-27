@@ -27,7 +27,7 @@ const config = {
 			{
 				docs: {
 					sidebarPath: require.resolve('./sidebars.js'),
-					editUrl: 'https://github.com/CircuitVerse/CircuitVerseDocs/edit/master/docs/',
+					editUrl: 'https://github.com/CircuitVerse/CircuitVerseDocs/edit/master/',
 					routeBasePath: '/',
 				},
 				blog: false, // Disable blog
@@ -95,7 +95,7 @@ const config = {
 						{ label: 'GitHub', href: 'https://github.com/CircuitVerse' },
 						{
 							label: 'YouTube',
-							href: 'https://www.youtube.com/channel/UCAK48dCPc_QON6Y5QqqRLOg',
+							href: 'https://www.youtube.com/@circuitverse-official',
 						},
 					],
 				},
